@@ -1,0 +1,7 @@
+google-adk
+google-generativeai
+opencv-python
+pillow
+python-dotenv
+pandas
+numpy
